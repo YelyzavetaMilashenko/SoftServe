@@ -100,4 +100,3 @@ let data = (array) => {
 }
 
 console.log(data(arr));
-
